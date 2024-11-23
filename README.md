@@ -1,4 +1,4 @@
-<img align="center" style="margin-bottom:100px; object-fit: contain" width=100% src="https://github.com/Marcos448/BoNNieClaws/blob/main/Imagem%20do%20WhatsApp%20de%202024-11-23%20%C3%A0(s)%2019.50.25_011ec32c.jpg" />
+<img align="center" style="margin-bottom:100px; object-fit: contain" width=100% src="https://github.com/BoNNieClaws/BoNNieClaws/blob/main/BoNNieClaws.png" />
 &nbsp;&nbsp;&nbsp;
 
 
