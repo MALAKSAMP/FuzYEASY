@@ -1,4 +1,4 @@
-<img align="center" style="margin-bottom:100px; object-fit: contain" width=100% src="https://github.com/BoNNieClaws/BoNNieClaws/blob/main/BoNNieClaws.png" />
+<img align="center" style="margin-bottom:100px; object-fit: contain" width=100% src="thumb-1920-555367.jpg" />
 &nbsp;&nbsp;&nbsp;
 
 
